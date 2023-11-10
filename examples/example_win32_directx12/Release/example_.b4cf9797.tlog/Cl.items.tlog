@@ -1,0 +1,8 @@
+D:\Code\imgui_extended\imgui.cpp;D:\Code\imgui_extended\examples\example_win32_directx12\Release\imgui.obj
+D:\Code\imgui_extended\imgui_demo.cpp;D:\Code\imgui_extended\examples\example_win32_directx12\Release\imgui_demo.obj
+D:\Code\imgui_extended\imgui_draw.cpp;D:\Code\imgui_extended\examples\example_win32_directx12\Release\imgui_draw.obj
+D:\Code\imgui_extended\imgui_tables.cpp;D:\Code\imgui_extended\examples\example_win32_directx12\Release\imgui_tables.obj
+D:\Code\imgui_extended\imgui_widgets.cpp;D:\Code\imgui_extended\examples\example_win32_directx12\Release\imgui_widgets.obj
+D:\Code\imgui_extended\backends\imgui_impl_dx12.cpp;D:\Code\imgui_extended\examples\example_win32_directx12\Release\imgui_impl_dx12.obj
+D:\Code\imgui_extended\backends\imgui_impl_win32.cpp;D:\Code\imgui_extended\examples\example_win32_directx12\Release\imgui_impl_win32.obj
+D:\Code\imgui_extended\examples\example_win32_directx12\main.cpp;D:\Code\imgui_extended\examples\example_win32_directx12\Release\main.obj
